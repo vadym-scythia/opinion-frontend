@@ -1,2 +1,9 @@
-<h1>Hello and welcome to my site!</h1>
-<a href="/about">About my site</a>
+<script>
+    import Callback from "./Callback.svelte";
+</script>
+
+<h1>Welcome to opinion-frontend/callback</h1>
+
+<main>
+    <Callback />
+</main>
